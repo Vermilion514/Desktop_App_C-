@@ -1,0 +1,12 @@
+C:\Users\Bartek\source\repos\Desktop_App_C-\Frontend\bin\Debug\Frontend.exe.config
+C:\Users\Bartek\source\repos\Desktop_App_C-\Frontend\bin\Debug\Frontend.exe
+C:\Users\Bartek\source\repos\Desktop_App_C-\Frontend\bin\Debug\Frontend.pdb
+C:\Users\Bartek\source\repos\Desktop_App_C-\Frontend\obj\Debug\Frontend.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\Desktop_App_C-\Frontend\obj\Debug\Frontend.Properties.Resources.resources
+C:\Users\Bartek\source\repos\Desktop_App_C-\Frontend\obj\Debug\Frontend.csproj.GenerateResource.cache
+C:\Users\Bartek\source\repos\Desktop_App_C-\Frontend\obj\Debug\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\Desktop_App_C-\Frontend\obj\Debug\Frontend.exe
+C:\Users\Bartek\source\repos\Desktop_App_C-\Frontend\obj\Debug\Frontend.pdb
+C:\Users\Bartek\source\repos\Desktop_App_C-\Frontend\obj\Debug\Frontend.Logowanie.resources
+C:\Users\Bartek\source\repos\Desktop_App_C-\Frontend\obj\Debug\Frontend.Rejestracja.resources
+C:\Users\Bartek\source\repos\Desktop_App_C-\Frontend\obj\Debug\Frontend.Panel.resources
